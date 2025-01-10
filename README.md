@@ -6,4 +6,7 @@ python3 ./video_dl.py <URL>
 
 The script will try to find an embedded video file and download it to ~/Videos
 
+Install dependencies with:
+
+pip install -r requirements.txt
 
