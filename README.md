@@ -1,6 +1,6 @@
 # video_dl
 
-This is a video downloader with friendly output. It is easy to run (make sure dependencies are installed):
+This is a commandline-based video downloader with friendly output. It is easy to run (make sure dependencies are installed):
 
 python3 ./video_dl.py <URL>
 
